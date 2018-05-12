@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
 description: The autograph manuscript, with holograph corrections, of Black's novel
   MACLEOD OF DARE.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15587#Macleod-of-Dare
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
 identifiers:
